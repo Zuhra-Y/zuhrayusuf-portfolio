@@ -22,3 +22,26 @@ p {
   margin: 0;
 }
 
+ /* HEADER*/
+
+ header {
+  padding: 20px;
+  background: #5b7e55;
+ 
+}
+
+nav {
+  display: grid;
+  grid-template-columns: 8fr 2fr 2fr 2fr 2fr;
+  margin: 3px;
+  font-weight: bolder;
+}
+
+nav h1 {
+  color:#f3f6f3;
+}
+
+nav a {
+  text-align: center;
+  color: #f3f6f3;
+}
