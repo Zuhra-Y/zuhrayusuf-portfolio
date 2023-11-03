@@ -45,3 +45,32 @@ nav a {
   text-align: center;
   color: #f3f6f3;
 }
+
+/* HERO BANNER*/
+
+aside h2 {
+  color: #5b7e55;
+}
+
+img {
+  height: 250px;
+  width: 100%;
+  margin-bottom: 70px;
+}
+
+.hero-banner {
+  background-image: url("../images/hero-banner.jpg") ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 300px;
+  position: relative;
+ }
+
+.hero-banner h2 {
+  position:absolute;
+  top:16vh;
+  left:70vw;
+  padding: 5px;
+  background-color:#f3f6f3;
+  color:#5b7e55;
+ }
