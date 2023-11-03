@@ -7,6 +7,7 @@ body {
   padding: 0;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   line-height: 1.5;
+  background-color: #f3f6f3;
 }
 
 h1,
@@ -20,6 +21,12 @@ h6 {
 
 p {
   margin: 0;
+  color:#5b7e55;
+}
+
+button:hover {
+  cursor: pointer;
+  transition: all 200ms linear;
 }
 
  /* HEADER*/
