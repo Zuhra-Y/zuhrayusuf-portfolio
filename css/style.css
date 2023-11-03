@@ -74,7 +74,7 @@ img {
   background-color:#f3f6f3;
   color:#5b7e55;
  }
- 
+
  /* MAIN PAGE SECTION*/
 
 main {
@@ -184,4 +184,37 @@ main {
   font-weight: bold;
   text-align: center;
   width:10vw;
+}
+
+/* FOOTER */
+
+li {
+  list-style-type: none;
+  color: #5b7e55;
+}
+
+li a {
+  color: #5b7e55;
+}
+
+.contact-me {
+  display: flex;
+  gap:4vw;
+  margin-left:5vw;
+  margin-bottom: 5vh;
+}
+
+.contact-links {
+  display: flex;
+  justify-content: space-evenly !important;
+  align-items: center !important;
+  gap: 15vw !important;
+  width: 100% !important;
+  font-weight: bold;
+}
+
+.contact-title {
+  line-height:2em;
+  font-size:  1.8em;
+  text-align-last: right;
 }
