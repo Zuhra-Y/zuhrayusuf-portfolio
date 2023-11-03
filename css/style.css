@@ -74,3 +74,114 @@ img {
   background-color:#f3f6f3;
   color:#5b7e55;
  }
+ 
+ /* MAIN PAGE SECTION*/
+
+main {
+  margin-top:5vh;
+ 
+}
+.page-section {
+  display:flex;
+  gap:4vw;
+  margin-left:5vw;
+  margin-bottom: 5vh;
+  margin-right: 5vh;
+  text-align: end;
+}
+
+.vl {
+  border-left: 6px solid  #5b7e55;
+
+}
+.about-content{
+  display: flex;
+  gap:3vw;
+}
+
+.about-me-title,
+.work-title {
+  font-size: 28.8px;
+  text-align-last: right;
+}
+
+.main-img, .secondary-img {
+ display:flex;
+ justify-content: center;
+ gap:2vw;
+ position:relative;
+}
+
+.main-img figcaption {
+  position: absolute;
+  top:14vh;
+  right: 5vw;
+  background-color: #b4f0a3;
+  color:#5b7e55;
+  padding: 0.3%;
+  font-weight: bold;
+  text-align: center;
+  width:10vw;
+}
+
+.secondary-img figcaption {
+  position: absolute;
+}
+
+.work-grid {
+  width: 100% !important;
+}
+
+#about-img {
+  border-radius:10%;
+}
+
+#text-about {
+  line-height:2em;
+  font-size:1.2em;
+  padding:2%;
+}
+
+#img2 {
+  left:20vw;
+  top:15vw;
+  background-color: #b4f0a3;
+  color:#5b7e55;
+  padding: 0.3%;
+  font-weight: bold;
+  text-align: center;
+  width:10vw;
+}
+
+#img3 {
+  right:3vw;
+  top:15vw;
+  background-color: #b4f0a3;
+  color:#5b7e55;
+  padding: 0.3%;
+  font-weight: bold;
+  text-align: center;
+  width:10vw;
+}
+
+#img4 {
+  left:20vw;
+  top:15vw;
+  background-color: #b4f0a3;
+  color:#5b7e55;
+  padding: 0.3%;
+  font-weight: bold;
+  text-align: center;
+  width:10vw;
+}
+
+#img5 {
+  right:3vw;
+  top:15vw;
+  background-color: #b4f0a3;
+  color:#5b7e55;
+  padding: 0.3%;
+  font-weight: bold;
+  text-align: center;
+  width:10vw;
+}
