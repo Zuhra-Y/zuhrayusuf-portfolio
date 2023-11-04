@@ -1,75 +1,50 @@
-# Unit 2 Challenge: Portfolio
+# Zuhra Yusuf Portfolio
 
-## Your Task
+## Description
 
-This week, you'll build a portfolio page, which you can add to as the course progresses. 
+I built this Portfolio Project to facilitate anyone to be able to observe some of the skills that I have learnt so far on the EdX Front End Devloper Bootcamp. The intent is to showcase some skills but also a way to tell you about myself, some of my work and ways to contact me. 
 
-A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights your strongest work as well as the thought processes behind it. Students who have portfolios with deployed web applications (meaning they are live on the web) are typically very successful in their career search after the boot camp. This last point can’t be stressed enough: having several deployed projects is a minimum requirement to receive an initial interview at many companies. 
+I was able to utilise not only my HTML knowledge I have accumulated, but also CSS - in particular styling the HTML using the Flexbox model which is a favourite of mine so far. I can appreciate thee Grid model but have fallen for Flexbox. 
+Which do you prefer?
 
-With these points in mind, in this challenge you’ll set yourself up for future success by applying the core skills you've recently learned: flexbox, media queries, and CSS variables. You'll get to practice your new skills while creating something that you will use during your job search. It’s a win-win that you'll likely be grateful for in the future!
+In creating this portfolio project, I learnt how to use and the importance of being precise in using GitHub. I think I have become comfortable using GitHub for Version Control and also committing work, but I am still yet to commit often, however little. Considering where I started with my first repository, I have come some way and I am proud! I still am having hiccups with media queries, possibly due to using Flexbox and not grid, but I plan to work on this and ask for help to further understand this and utilise it in the future.
 
-**Note:** If you don't have enough web applications to showcase at this point, use placeholder images and names. You can change them to real applications as you create them later in the course.
+In creating this Portfolio, I'd love to add more notes in the respective sections and especially work to showcase in the future as I build my skills na dprojects. I would like to be more creative as I spent more time on the logistics of setting the page up as best as possible but with time, it'll be exciting to see what I can achieve in a few more months.
 
-## Acceptance Criteria
+## Installation
 
-Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
+N/A
 
-* When the page is loaded the page presents your name, a recent photo or avatar, and links to sections about you, your work, and how to contact you
-* When one of the links in the navigation is clicked then the UI scrolls to the corresponding section
-* When viewing the section about your work then the section contains titled images of your applications
-* When presented with the your first application then that application's image should be larger in size than the others
-* When images of the applications are clicked then the user is taken to that deployed application
-* When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to my viewport
+## Usage
 
-## Mock-Up
+N/A
 
-The following animation shows the web application's appearance and functionality:
+## Credits
 
-![portfolio demo](./images/01-css-challenge-demo.gif)
+For the Media Queries Section - I used the below webpage for help as I got stuck.
 
-Feel free to use your own colors and images.
+https://www.w3schools.com/css/tryit.asp?filename=trycss_mediaqueries_flex
 
-## Grading Requirements
+## License
 
-This challenge is graded based on the following criteria: 
+MIT License
 
-### Technical Acceptance Criteria: 40%
+Copyright (c) [2023] [Zuhra Yusuf]
 
-* Satisfies all of the above acceptance criteria.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-### Deployment: 32%
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository contains application code.
-
-### Application Quality: 15%
-
-* Application resembles the mock-up functionality provided in the challenge instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality readme with description, screenshot, link to deployed application.
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
-
----
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
